@@ -71,5 +71,5 @@ assignment-01/
 ├── doc/
 │   ├── scheme.png                  # Breadboard layout
 │   ├── schematic.pdf               # Schematic diagram
-│   └── demo.mp4                    # Demonstration video
+│   └── demo.md                     # Demonstration video link
 └── README.md                       # This documentation
